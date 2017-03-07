@@ -1,0 +1,17 @@
+C:\Users\CAIO\Desktop\CRUDLinqToSql\LinqToSQLBasic\LinqToSQLBasic.TransferObject\bin\Debug\LinqToSQLBasic.TransferObject.dll
+C:\Users\CAIO\Desktop\CRUDLinqToSql\LinqToSQLBasic\LinqToSQLBasic.TransferObject\bin\Debug\LinqToSQLBasic.TransferObject.pdb
+C:\Users\CAIO\Desktop\CRUDLinqToSql\LinqToSQLBasic\LinqToSQLBasic.TransferObject\obj\Debug\CRUD3Camadas.TransferObject.csprojResolveAssemblyReference.cache
+C:\Users\CAIO\Desktop\CRUDLinqToSql\LinqToSQLBasic\LinqToSQLBasic.TransferObject\obj\Debug\LinqToSQLBasic.TransferObject.dll
+C:\Users\CAIO\Desktop\CRUDLinqToSql\LinqToSQLBasic\LinqToSQLBasic.TransferObject\obj\Debug\LinqToSQLBasic.TransferObject.pdb
+C:\Users\CAIO\Desktop\CRUDLinqToSql\LinqToSQLBasic\LinqToSQLBasic.TransferObject\bin\Debug\LinqToSQLBasic.TransferObject.dll.CodeAnalysisLog.xml
+C:\Users\CAIO\Desktop\CRUDLinqToSql\LinqToSQLBasic\LinqToSQLBasic.TransferObject\bin\Debug\LinqToSQLBasic.TransferObject.dll.lastcodeanalysissucceeded
+C:\Users\CAIO\Desktop\Exemplo de CRUD com 3 Camadas\CRUD3Camadas\CRUD3Camadas.TransferObject\bin\Debug\LinqToSQLBasic.TransferObject.dll
+C:\Users\CAIO\Desktop\Exemplo de CRUD com 3 Camadas\CRUD3Camadas\CRUD3Camadas.TransferObject\bin\Debug\LinqToSQLBasic.TransferObject.pdb
+C:\Users\CAIO\Desktop\Exemplo de CRUD com 3 Camadas\CRUD3Camadas\CRUD3Camadas.TransferObject\obj\Debug\CRUD3Camadas.TransferObject.csprojResolveAssemblyReference.cache
+C:\Users\CAIO\Desktop\Exemplo de CRUD com 3 Camadas\CRUD3Camadas\CRUD3Camadas.TransferObject\obj\Debug\LinqToSQLBasic.TransferObject.dll
+C:\Users\CAIO\Desktop\Exemplo de CRUD com 3 Camadas\CRUD3Camadas\CRUD3Camadas.TransferObject\obj\Debug\LinqToSQLBasic.TransferObject.pdb
+C:\Users\CAIO\Desktop\CRUD com 3 Camadas\CRUD3Camadas\CRUD3Camadas.TransferObject\bin\Debug\CRUD3Camadas.TransferObject.dll
+C:\Users\CAIO\Desktop\CRUD com 3 Camadas\CRUD3Camadas\CRUD3Camadas.TransferObject\bin\Debug\CRUD3Camadas.TransferObject.pdb
+C:\Users\CAIO\Desktop\CRUD com 3 Camadas\CRUD3Camadas\CRUD3Camadas.TransferObject\obj\Debug\CRUD3Camadas.TransferObject.csprojResolveAssemblyReference.cache
+C:\Users\CAIO\Desktop\CRUD com 3 Camadas\CRUD3Camadas\CRUD3Camadas.TransferObject\obj\Debug\CRUD3Camadas.TransferObject.dll
+C:\Users\CAIO\Desktop\CRUD com 3 Camadas\CRUD3Camadas\CRUD3Camadas.TransferObject\obj\Debug\CRUD3Camadas.TransferObject.pdb

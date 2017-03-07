@@ -1,0 +1,38 @@
+C:\Users\CAIO\Desktop\CRUDLinqToSql\LinqToSQLBasic\LinqToSQLBasic.Business\bin\Debug\LinqToSQLBasic.Business.dll
+C:\Users\CAIO\Desktop\CRUDLinqToSql\LinqToSQLBasic\LinqToSQLBasic.Business\bin\Debug\LinqToSQLBasic.Business.pdb
+C:\Users\CAIO\Desktop\CRUDLinqToSql\LinqToSQLBasic\LinqToSQLBasic.Business\bin\Debug\LinqToSQLBasic.DataAcess.dll
+C:\Users\CAIO\Desktop\CRUDLinqToSql\LinqToSQLBasic\LinqToSQLBasic.Business\bin\Debug\LinqToSQLBasic.TransferObject.dll
+C:\Users\CAIO\Desktop\CRUDLinqToSql\LinqToSQLBasic\LinqToSQLBasic.Business\bin\Debug\LinqToSQLBasic.DataAcess.pdb
+C:\Users\CAIO\Desktop\CRUDLinqToSql\LinqToSQLBasic\LinqToSQLBasic.Business\bin\Debug\LinqToSQLBasic.TransferObject.pdb
+C:\Users\CAIO\Desktop\CRUDLinqToSql\LinqToSQLBasic\LinqToSQLBasic.Business\obj\Debug\CRUD3Camadas.Business.csprojResolveAssemblyReference.cache
+C:\Users\CAIO\Desktop\CRUDLinqToSql\LinqToSQLBasic\LinqToSQLBasic.Business\obj\Debug\LinqToSQLBasic.Business.dll
+C:\Users\CAIO\Desktop\CRUDLinqToSql\LinqToSQLBasic\LinqToSQLBasic.Business\obj\Debug\LinqToSQLBasic.Business.pdb
+C:\Users\CAIO\Desktop\CRUDLinqToSql\LinqToSQLBasic\LinqToSQLBasic.Business\bin\Debug\LinqToSQLBasic.Business.dll.CodeAnalysisLog.xml
+C:\Users\CAIO\Desktop\CRUDLinqToSql\LinqToSQLBasic\LinqToSQLBasic.Business\bin\Debug\LinqToSQLBasic.Business.dll.lastcodeanalysissucceeded
+C:\Users\CAIO\Desktop\CRUD3Camadas\CRUD3Camadas.Business\bin\Debug\LinqToSQLBasic.Business.dll
+C:\Users\CAIO\Desktop\CRUD3Camadas\CRUD3Camadas.Business\bin\Debug\LinqToSQLBasic.Business.pdb
+C:\Users\CAIO\Desktop\CRUD3Camadas\CRUD3Camadas.Business\bin\Debug\LinqToSQLBasic.DataAcess.dll
+C:\Users\CAIO\Desktop\CRUD3Camadas\CRUD3Camadas.Business\bin\Debug\LinqToSQLBasic.TransferObject.dll
+C:\Users\CAIO\Desktop\CRUD3Camadas\CRUD3Camadas.Business\bin\Debug\LinqToSQLBasic.DataAcess.pdb
+C:\Users\CAIO\Desktop\CRUD3Camadas\CRUD3Camadas.Business\bin\Debug\LinqToSQLBasic.TransferObject.pdb
+C:\Users\CAIO\Desktop\CRUD3Camadas\CRUD3Camadas.Business\obj\Debug\CRUD3Camadas.Business.csprojResolveAssemblyReference.cache
+C:\Users\CAIO\Desktop\CRUD3Camadas\CRUD3Camadas.Business\obj\Debug\LinqToSQLBasic.Business.dll
+C:\Users\CAIO\Desktop\CRUD3Camadas\CRUD3Camadas.Business\obj\Debug\LinqToSQLBasic.Business.pdb
+C:\Users\CAIO\Desktop\Exemplo de CRUD com 3 Camadas\CRUD3Camadas\CRUD3Camadas.Business\bin\Debug\LinqToSQLBasic.Business.dll
+C:\Users\CAIO\Desktop\Exemplo de CRUD com 3 Camadas\CRUD3Camadas\CRUD3Camadas.Business\bin\Debug\LinqToSQLBasic.Business.pdb
+C:\Users\CAIO\Desktop\Exemplo de CRUD com 3 Camadas\CRUD3Camadas\CRUD3Camadas.Business\bin\Debug\LinqToSQLBasic.DataAcess.dll
+C:\Users\CAIO\Desktop\Exemplo de CRUD com 3 Camadas\CRUD3Camadas\CRUD3Camadas.Business\bin\Debug\LinqToSQLBasic.TransferObject.dll
+C:\Users\CAIO\Desktop\Exemplo de CRUD com 3 Camadas\CRUD3Camadas\CRUD3Camadas.Business\bin\Debug\LinqToSQLBasic.DataAcess.pdb
+C:\Users\CAIO\Desktop\Exemplo de CRUD com 3 Camadas\CRUD3Camadas\CRUD3Camadas.Business\bin\Debug\LinqToSQLBasic.TransferObject.pdb
+C:\Users\CAIO\Desktop\Exemplo de CRUD com 3 Camadas\CRUD3Camadas\CRUD3Camadas.Business\obj\Debug\CRUD3Camadas.Business.csprojResolveAssemblyReference.cache
+C:\Users\CAIO\Desktop\Exemplo de CRUD com 3 Camadas\CRUD3Camadas\CRUD3Camadas.Business\obj\Debug\LinqToSQLBasic.Business.dll
+C:\Users\CAIO\Desktop\Exemplo de CRUD com 3 Camadas\CRUD3Camadas\CRUD3Camadas.Business\obj\Debug\LinqToSQLBasic.Business.pdb
+C:\Users\CAIO\Desktop\CRUD com 3 Camadas\CRUD3Camadas\CRUD3Camadas.Business\obj\Debug\CRUD3Camadas.Business.csprojResolveAssemblyReference.cache
+C:\Users\CAIO\Desktop\CRUD com 3 Camadas\CRUD3Camadas\CRUD3Camadas.Business\bin\Debug\CRUD3Camadas.Business.dll
+C:\Users\CAIO\Desktop\CRUD com 3 Camadas\CRUD3Camadas\CRUD3Camadas.Business\bin\Debug\CRUD3Camadas.Business.pdb
+C:\Users\CAIO\Desktop\CRUD com 3 Camadas\CRUD3Camadas\CRUD3Camadas.Business\bin\Debug\CRUD3Camadas.DataAcess.dll
+C:\Users\CAIO\Desktop\CRUD com 3 Camadas\CRUD3Camadas\CRUD3Camadas.Business\bin\Debug\CRUD3Camadas.TransferObject.dll
+C:\Users\CAIO\Desktop\CRUD com 3 Camadas\CRUD3Camadas\CRUD3Camadas.Business\bin\Debug\CRUD3Camadas.DataAcess.pdb
+C:\Users\CAIO\Desktop\CRUD com 3 Camadas\CRUD3Camadas\CRUD3Camadas.Business\bin\Debug\CRUD3Camadas.TransferObject.pdb
+C:\Users\CAIO\Desktop\CRUD com 3 Camadas\CRUD3Camadas\CRUD3Camadas.Business\obj\Debug\CRUD3Camadas.Business.dll
+C:\Users\CAIO\Desktop\CRUD com 3 Camadas\CRUD3Camadas\CRUD3Camadas.Business\obj\Debug\CRUD3Camadas.Business.pdb

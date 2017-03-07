@@ -1,0 +1,5 @@
+C:\Users\CAIO\Desktop\CRUDLinqToSql\LinqToSQLBasic\LinqToSQLBasic.TransferObject\bin\Debug\LinqToSQLBasic.TransferObject.dll
+C:\Users\CAIO\Desktop\CRUDLinqToSql\LinqToSQLBasic\LinqToSQLBasic.TransferObject\bin\Debug\LinqToSQLBasic.TransferObject.pdb
+C:\Users\CAIO\Desktop\CRUDLinqToSql\LinqToSQLBasic\LinqToSQLBasic.TransferObject\obj\Debug\LinqToSQLBasic.TransferObject.csprojResolveAssemblyReference.cache
+C:\Users\CAIO\Desktop\CRUDLinqToSql\LinqToSQLBasic\LinqToSQLBasic.TransferObject\obj\Debug\LinqToSQLBasic.TransferObject.dll
+C:\Users\CAIO\Desktop\CRUDLinqToSql\LinqToSQLBasic\LinqToSQLBasic.TransferObject\obj\Debug\LinqToSQLBasic.TransferObject.pdb

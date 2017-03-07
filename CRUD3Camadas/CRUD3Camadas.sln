@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRUD3Camadas.UserInterface", "CRUD3Camadas.UserInterface\CRUD3Camadas.UserInterface.csproj", "{8A22C287-CC9C-4CFE-89EE-328BA342D53D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRUD3Camadas.TransferObject", "CRUD3Camadas.TransferObject\CRUD3Camadas.TransferObject.csproj", "{B5A1BDD9-FFBD-44A5-965B-FA4434D44D0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRUD3Camadas.DataAcess", "CRUD3Camadas.DataAcess\CRUD3Camadas.DataAcess.csproj", "{1EBBDD00-D6DC-4E0B-A397-E31FF22535A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRUD3Camadas.Business", "CRUD3Camadas.Business\CRUD3Camadas.Business.csproj", "{1027A427-DEA5-4DA1-8067-0B1B940A2CBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A22C287-CC9C-4CFE-89EE-328BA342D53D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A22C287-CC9C-4CFE-89EE-328BA342D53D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A22C287-CC9C-4CFE-89EE-328BA342D53D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A22C287-CC9C-4CFE-89EE-328BA342D53D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5A1BDD9-FFBD-44A5-965B-FA4434D44D0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5A1BDD9-FFBD-44A5-965B-FA4434D44D0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5A1BDD9-FFBD-44A5-965B-FA4434D44D0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5A1BDD9-FFBD-44A5-965B-FA4434D44D0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EBBDD00-D6DC-4E0B-A397-E31FF22535A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EBBDD00-D6DC-4E0B-A397-E31FF22535A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EBBDD00-D6DC-4E0B-A397-E31FF22535A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EBBDD00-D6DC-4E0B-A397-E31FF22535A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1027A427-DEA5-4DA1-8067-0B1B940A2CBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1027A427-DEA5-4DA1-8067-0B1B940A2CBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1027A427-DEA5-4DA1-8067-0B1B940A2CBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1027A427-DEA5-4DA1-8067-0B1B940A2CBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

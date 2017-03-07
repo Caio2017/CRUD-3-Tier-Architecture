@@ -1,0 +1,30 @@
+C:\Users\CAIO\Desktop\CRUDLinqToSql\LinqToSQLBasic\LinqToSQLBasic.DataAcess\bin\Debug\LinqToSQLBasic.DataAcess.dll
+C:\Users\CAIO\Desktop\CRUDLinqToSql\LinqToSQLBasic\LinqToSQLBasic.DataAcess\bin\Debug\LinqToSQLBasic.DataAcess.pdb
+C:\Users\CAIO\Desktop\CRUDLinqToSql\LinqToSQLBasic\LinqToSQLBasic.DataAcess\bin\Debug\LinqToSQLBasic.TransferObject.dll
+C:\Users\CAIO\Desktop\CRUDLinqToSql\LinqToSQLBasic\LinqToSQLBasic.DataAcess\bin\Debug\LinqToSQLBasic.TransferObject.pdb
+C:\Users\CAIO\Desktop\CRUDLinqToSql\LinqToSQLBasic\LinqToSQLBasic.DataAcess\obj\Debug\CRUD3Camadas.DataAcess.csprojResolveAssemblyReference.cache
+C:\Users\CAIO\Desktop\CRUDLinqToSql\LinqToSQLBasic\LinqToSQLBasic.DataAcess\obj\Debug\LinqToSQLBasic.DataAcess.dll
+C:\Users\CAIO\Desktop\CRUDLinqToSql\LinqToSQLBasic\LinqToSQLBasic.DataAcess\obj\Debug\LinqToSQLBasic.DataAcess.pdb
+C:\Users\CAIO\Desktop\CRUDLinqToSql\LinqToSQLBasic\LinqToSQLBasic.DataAcess\bin\Debug\LinqToSQLBasic.DataAcess.dll.CodeAnalysisLog.xml
+C:\Users\CAIO\Desktop\CRUDLinqToSql\LinqToSQLBasic\LinqToSQLBasic.DataAcess\bin\Debug\LinqToSQLBasic.DataAcess.dll.lastcodeanalysissucceeded
+C:\Users\CAIO\Desktop\CRUD3Camadas\CRUD3Camadas.DataAcess\bin\Debug\LinqToSQLBasic.DataAcess.dll
+C:\Users\CAIO\Desktop\CRUD3Camadas\CRUD3Camadas.DataAcess\bin\Debug\LinqToSQLBasic.DataAcess.pdb
+C:\Users\CAIO\Desktop\CRUD3Camadas\CRUD3Camadas.DataAcess\bin\Debug\LinqToSQLBasic.TransferObject.dll
+C:\Users\CAIO\Desktop\CRUD3Camadas\CRUD3Camadas.DataAcess\bin\Debug\LinqToSQLBasic.TransferObject.pdb
+C:\Users\CAIO\Desktop\CRUD3Camadas\CRUD3Camadas.DataAcess\obj\Debug\CRUD3Camadas.DataAcess.csprojResolveAssemblyReference.cache
+C:\Users\CAIO\Desktop\CRUD3Camadas\CRUD3Camadas.DataAcess\obj\Debug\LinqToSQLBasic.DataAcess.dll
+C:\Users\CAIO\Desktop\CRUD3Camadas\CRUD3Camadas.DataAcess\obj\Debug\LinqToSQLBasic.DataAcess.pdb
+C:\Users\CAIO\Desktop\Exemplo de CRUD com 3 Camadas\CRUD3Camadas\CRUD3Camadas.DataAcess\bin\Debug\LinqToSQLBasic.DataAcess.dll
+C:\Users\CAIO\Desktop\Exemplo de CRUD com 3 Camadas\CRUD3Camadas\CRUD3Camadas.DataAcess\bin\Debug\LinqToSQLBasic.DataAcess.pdb
+C:\Users\CAIO\Desktop\Exemplo de CRUD com 3 Camadas\CRUD3Camadas\CRUD3Camadas.DataAcess\bin\Debug\LinqToSQLBasic.TransferObject.dll
+C:\Users\CAIO\Desktop\Exemplo de CRUD com 3 Camadas\CRUD3Camadas\CRUD3Camadas.DataAcess\bin\Debug\LinqToSQLBasic.TransferObject.pdb
+C:\Users\CAIO\Desktop\Exemplo de CRUD com 3 Camadas\CRUD3Camadas\CRUD3Camadas.DataAcess\obj\Debug\CRUD3Camadas.DataAcess.csprojResolveAssemblyReference.cache
+C:\Users\CAIO\Desktop\Exemplo de CRUD com 3 Camadas\CRUD3Camadas\CRUD3Camadas.DataAcess\obj\Debug\LinqToSQLBasic.DataAcess.dll
+C:\Users\CAIO\Desktop\Exemplo de CRUD com 3 Camadas\CRUD3Camadas\CRUD3Camadas.DataAcess\obj\Debug\LinqToSQLBasic.DataAcess.pdb
+C:\Users\CAIO\Desktop\Exemplo de CRUD com 3 Camadas\CRUD3Camadas\CRUD3Camadas.DataAcess\bin\Debug\LinqToSQLBasic.DataAcess.dll.config
+C:\Users\CAIO\Desktop\CRUD com 3 Camadas\CRUD3Camadas\CRUD3Camadas.DataAcess\obj\Debug\CRUD3Camadas.DataAcess.csprojResolveAssemblyReference.cache
+C:\Users\CAIO\Desktop\CRUD com 3 Camadas\CRUD3Camadas\CRUD3Camadas.DataAcess\bin\Debug\CRUD3Camadas.DataAcess.dll.config
+C:\Users\CAIO\Desktop\CRUD com 3 Camadas\CRUD3Camadas\CRUD3Camadas.DataAcess\bin\Debug\CRUD3Camadas.DataAcess.dll
+C:\Users\CAIO\Desktop\CRUD com 3 Camadas\CRUD3Camadas\CRUD3Camadas.DataAcess\bin\Debug\CRUD3Camadas.DataAcess.pdb
+C:\Users\CAIO\Desktop\CRUD com 3 Camadas\CRUD3Camadas\CRUD3Camadas.DataAcess\obj\Debug\CRUD3Camadas.DataAcess.dll
+C:\Users\CAIO\Desktop\CRUD com 3 Camadas\CRUD3Camadas\CRUD3Camadas.DataAcess\obj\Debug\CRUD3Camadas.DataAcess.pdb
